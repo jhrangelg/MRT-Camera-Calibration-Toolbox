@@ -52,7 +52,7 @@ Contributions are very welcome. Open a fresh issue to start a discussion around 
 
 For [quaternions.py](https://github.com/MT-MRT/MRT-Camera-Calibration-Toolbox/blob/master/quaternions.py) code based on: Christoph Hagen. "averaging quaternions". Available here: https://github.com/christophhagen/averaging-quaternions
 
-Toolbar icons obtain from: https://www.iconfinder.com
+Toolbar icons obtained from: https://www.iconfinder.com
 
 ## Citation
 
